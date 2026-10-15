@@ -152,27 +152,27 @@
     {
       "id": "hero",
       "caption": "Твой путь начинается здесь",
-      "prompt": "modern barbershop interior, slavic man, bright, professional photo, 4k"
+      "prompt": "Modern apartment renovation in progress, fresh painted white walls, new wooden floor, large windows, tools on the floor, no people, photorealistic, 4k"
     },
     {
       "id": "about",
       "caption": "Комфорт и качество",
-      "prompt": "cozy barbershop interior, russian people, warm light, 4k"
+      "prompt": "Three construction workers in white hard hats reviewing blueprints at renovation site, slavic appearance, photorealistic, 4k"
     },
     {
       "id": "services",
       "caption": "Профессиональный подход",
-      "prompt": "slavic barber cutting hair, professional, bright, 4k"
+      "prompt": "Close-up of tiling work in modern bathroom, fresh tiles, professional tools, no hands, no people, photorealistic, 4k"
     },
     {
       "id": "team",
       "caption": "Команда мастеров",
-      "prompt": "team of slavic barbers, smiling, friendly, 4k"
+      "prompt": "Three russian male construction workers smiling, work uniforms, renovated apartment, slavic appearance, photorealistic, 4k"
     },
     {
       "id": "result",
       "caption": "Реальный результат",
-      "prompt": "happy slavic man with fresh haircut, confident, 4k"
+      "prompt": "Finished modern apartment interior, fresh renovation, light walls, wooden floor, minimalist furniture, no people, photorealistic, 4k"
     }
   ],
   "privacy_policy": "Настоящая Политика конфиденциальности описывает, как мы собираем, используем и защищаем персональные данные. Мы собираем только необходимые данные: имя, телефон, email. Данные не передаются третьим лицам.",

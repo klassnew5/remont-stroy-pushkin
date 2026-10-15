@@ -173,6 +173,12 @@
       "id": "result",
       "caption": "Реальный результат",
       "prompt": "Finished modern apartment interior, fresh renovation, light walls, wooden floor, minimalist furniture, no people, photorealistic, 4k"
+    },
+    {
+      "id": "process",
+      "file": "result.png",
+      "section": "process",
+      "prompt": "Finished modern apartment interior, fresh renovation, light walls, wooden floor, minimalist furniture, no people, photorealistic, 4k"
     }
   ],
   "privacy_policy": "Настоящая Политика конфиденциальности описывает, как мы собираем, используем и защищаем персональные данные. Мы собираем только необходимые данные: имя, телефон, email. Данные не передаются третьим лицам.",
